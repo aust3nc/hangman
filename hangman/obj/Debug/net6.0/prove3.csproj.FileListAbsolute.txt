@@ -1,0 +1,15 @@
+/home/aust3n/Desktop/hangman/obj/Debug/net6.0/prove3.csproj.AssemblyReference.cache
+/home/aust3n/Desktop/hangman/obj/Debug/net6.0/prove3.GeneratedMSBuildEditorConfig.editorconfig
+/home/aust3n/Desktop/hangman/obj/Debug/net6.0/prove3.AssemblyInfoInputs.cache
+/home/aust3n/Desktop/hangman/obj/Debug/net6.0/prove3.AssemblyInfo.cs
+/home/aust3n/Desktop/hangman/obj/Debug/net6.0/prove3.csproj.CoreCompileInputs.cache
+/home/aust3n/Desktop/hangman/bin/Debug/net6.0/prove3
+/home/aust3n/Desktop/hangman/bin/Debug/net6.0/prove3.deps.json
+/home/aust3n/Desktop/hangman/bin/Debug/net6.0/prove3.runtimeconfig.json
+/home/aust3n/Desktop/hangman/bin/Debug/net6.0/prove3.dll
+/home/aust3n/Desktop/hangman/bin/Debug/net6.0/prove3.pdb
+/home/aust3n/Desktop/hangman/obj/Debug/net6.0/prove3.dll
+/home/aust3n/Desktop/hangman/obj/Debug/net6.0/refint/prove3.dll
+/home/aust3n/Desktop/hangman/obj/Debug/net6.0/prove3.pdb
+/home/aust3n/Desktop/hangman/obj/Debug/net6.0/prove3.genruntimeconfig.cache
+/home/aust3n/Desktop/hangman/obj/Debug/net6.0/ref/prove3.dll
